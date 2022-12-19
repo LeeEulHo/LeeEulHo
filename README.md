@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Lee%20Eul%20Ho&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Lee%20Eul%20Ho&fontSize=40)
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LeeEulHo&count_private=true&show_icons=true">
