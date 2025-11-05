@@ -41,7 +41,7 @@
 
 <h1 align="center">Contact</h1>
 <p align="center">
-    <b>Discord:</b> NUCLEAR#7856 (+82 10-9762-7140)
+    <b>Discord:</b> nuclearleh (+82 10-9762-7140)
 </p>
 <p align="center">
     <b>Email:</b> nuclearleh1207@naver.com
