@@ -4,6 +4,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=LeeEulHo&count_private=true&show_icons=true">
  </p>
 
+ <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeEulHo&theme=blue-green">
+ </p>
+
 <h2 align="center">My Experiences and Learning in progress</h2>
 <h3 align="center">Languages</h3>
 <p align="center">
