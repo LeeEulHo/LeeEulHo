@@ -48,12 +48,3 @@
 <p align="center">
     <b>Email:</b> nuclearleh1207@naver.com
 </p></br>
-
-
-<h1 align="center">Notes</h4>
-<p align="center">
-    Icons on this page are powered by <br/>
-</p>
-<p align="center">
-    <img src="https://img.shields.io/badge/shields.io-%23404d59.svg?style=for-the-badge&logo=shields.io&logoColor=%#000000"/>
-</p>
