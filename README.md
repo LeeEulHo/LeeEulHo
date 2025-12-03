@@ -21,7 +21,7 @@
 
 <h3 align="center">Using Api, DB, OS</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/Pytorch%20API-%23404d59?style=for-the-badge&logo=Pytorch&logoColor=%#5865F2"/>
+    <img src="https://img.shields.io/badge/Pytorch%20-%23404d59?style=for-the-badge&logo=Pytorch&logoColor=%#5865F2"/>
     <img src="https://img.shields.io/badge/Discord%20API-%23404d59?style=for-the-badge&logo=Discord&logoColor=%#5865F2"/>
     <img src="https://img.shields.io/badge/aws-%23404d59.svg?style=for-the-badge&logo=Amazon&logoColor=%#E34F26"/>
     <img src="https://img.shields.io/badge/mysql-%23404d59?style=for-the-badge&logo=mysql&logoColor=%#5865F2"/>
